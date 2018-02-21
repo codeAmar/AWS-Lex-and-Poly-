@@ -1,0 +1,26 @@
+{
+  "name": "aws_polly",
+  "version": "1.0.0",
+  "description": "Demonstration of lex and polly features",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeAmar/AWS-Lex-and-Poly-.git"
+  },
+  "keywords": [
+    "AWS"
+  ],
+  "author": "amarjot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codeAmar/AWS-Lex-and-Poly-/issues"
+  },
+  "homepage": "https://github.com/codeAmar/AWS-Lex-and-Poly-#readme",
+  "dependencies": {
+    "aws-sdk": "^2.199.0",
+    "express": "^4.16.2"
+  }
+}
